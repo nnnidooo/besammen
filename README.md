@@ -1,1 +1,3 @@
-# besammen
+# BeSammen
+## Et fælleskab om sygdom
+
